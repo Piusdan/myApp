@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10000,
+    "window.zoomLevel": -1,
+    "files.exclude": {
+        "**/**.js": true,
+        "**/**.js.map": true,
+        "**/**.spec.ts": true,
+    },
+    "workbench.colorTheme": "Visual Studio Light"
+}

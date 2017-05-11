@@ -2,11 +2,11 @@
 {
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 10000,
-    "window.zoomLevel": -1,
+    "window.zoomLevel": 0,
     "files.exclude": {
         "**/**.js": true,
         "**/**.js.map": true,
         "**/**.spec.ts": true,
     },
-    "workbench.colorTheme": "Visual Studio Light"
+    "workbench.colorTheme": "Solarized Dark"
 }
